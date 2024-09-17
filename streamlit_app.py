@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("😢 Sorry - Streamlit was not able to handle thousands of Finxters generating videos at the same time.")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "I should've considered this. I'm working on deploying it on Heroku and let you know via the Finxter newsletter. ❤️ Chris"
 )
